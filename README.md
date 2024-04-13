@@ -6,5 +6,5 @@ ii) images
 
 iii) links
 
-for more info on the project vist https://www.theodinproject.com/lessons/foundations-recipes
+for more info on the project visit https://www.theodinproject.com/lessons/foundations-recipes
 
